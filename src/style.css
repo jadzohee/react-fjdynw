@@ -1,0 +1,13 @@
+h1,
+p {
+  font-family: Lato;
+  color: white;
+}
+:root {
+  background-color: black;
+}
+
+.title {
+  text-align: center;
+  margin: 50%;
+}
